@@ -1,0 +1,14 @@
+{
+	"salesforce": {
+		"salesforceUsername": "",
+		"salesforcePassword": "",
+		"salesforceClientID": "",
+		"salesforceClientSecret": ""
+	},
+	"monday.com": {
+		"mondayAccessToken": ""
+	},
+  	"ApicaSalesMonitoring": {
+		"auth_token": ""
+	}
+}
